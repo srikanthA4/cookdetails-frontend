@@ -6,8 +6,7 @@ A recipe book. Created to add, edit, read, delete recipes. MERN stack.
 ![](img/cookbook1.png)
 the main page of the app
 
-![](img/cookbook2.png)
-recipe details page
+
 
 ![](img/cookbook3.png)
 the page of creation of the recipe
@@ -42,8 +41,5 @@ list of the recipes in recipe details menu
 ![](img/cookbook13.png)
 list of the recipes on the main page
 
-![](img/cookbook14.png)
-app view on the phone
 
-![](img/cookbook15.png)
-app view on the tablet
+
